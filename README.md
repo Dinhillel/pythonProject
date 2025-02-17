@@ -8,3 +8,12 @@ pythonProject/
 ├── model.py                # The file where you made changes to the model and dataset
 ├── modules.xml             # Another file you added
 
+
+
+A Python-based project for fine-tuning the T5 model on a summarization task using the Hugging Face transformers library. The project uses the XSum dataset to train a model that generates summaries from text articles.
+
+Key Features:
+
+T5 model fine-tuning for text summarization.
+PyTorch and Hugging Face transformers for NLP.
+XSum dataset integration.
